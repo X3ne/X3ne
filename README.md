@@ -51,3 +51,8 @@
 | **_Github Stats_** | **_Top Languages_** |
 | --- | --- |
 | ![X3ne's github stats](https://github-readme-stats.vercel.app/api?username=X3ne&show_icons=true&title_color=562135&icon_color=c3829e&text_color=fcd1d7&bg_color=e9b1cd&count_private=true) | ![X3ne's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X3ne&show_icons=true&title_color=562135&icon_color=c3829e&text_color=562135&bg_color=e9b1cd&count_private=true&layout=compact) |
+
+<br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
