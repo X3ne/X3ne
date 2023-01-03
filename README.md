@@ -57,10 +57,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML         0 secs          █████████████░░░░░░░░░░░░   52.03 %
-Docker       0 secs          ███████████░░░░░░░░░░░░░░   44.31 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
