@@ -57,7 +57,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JSON         47 mins         █████████▒░░░░░░░░░░░░░░░   37.22 %
+TypeScript   28 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
+Vue.js       24 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
+Git Config   10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+JavaScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Bash         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
 ```
 
 <!--END_SECTION:waka-->
