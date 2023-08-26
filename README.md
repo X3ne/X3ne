@@ -62,11 +62,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 30 mins         ██████████▓░░░░░░░░░░░░░░   42.68 %
-Docker                     20 mins         ███████░░░░░░░░░░░░░░░░░░   28.54 %
-YAML                       11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
-Vue.js                     5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-Nginx configuration file   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
