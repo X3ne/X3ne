@@ -62,11 +62,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Docker                     8 mins          ██████████████░░░░░░░░░░░   56.58 %
-Nginx configuration file   6 mins          ██████████▒░░░░░░░░░░░░░░   41.62 %
-Vue.js                     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-JSON                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-TypeScript                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+TypeScript                 21 mins         ███████████▓░░░░░░░░░░░░░   46.31 %
+Vue.js                     10 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.24 %
+Docker                     8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
+Nginx configuration file   6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
+JSON                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
