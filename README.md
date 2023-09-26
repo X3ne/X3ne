@@ -62,7 +62,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript     4 hrs 29 mins   ███████████▓░░░░░░░░░░░░░   46.33 %
+Go             3 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   36.21 %
+TSX            0 hrs 32 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+JSON           0 hrs 22 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+YAML           0 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
 <!--END_SECTION:waka-->
