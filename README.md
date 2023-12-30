@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://camo.githubusercontent.com/c8f633097761c084266bf28b6563c2c0b122ca20a8a99303442db605639a5dec/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f31335a7a59586b65496a635a79302f67697068792e676966"  />
+  <img height="250" src="https://i.imgur.com/yiGKFAL.gif" />
 </div>
 
 ###
