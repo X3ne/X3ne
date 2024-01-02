@@ -3,7 +3,7 @@
 # Hello!👋 I'm **`Arthur`** a web developer
 
 <br>
-<img align="left" width="100" src="https://media.discordapp.net/attachments/932999807004442658/1191537039468933140/a76Yblr9_700w_0.png?ex=65a5cc57&is=65935757&hm=45ed588185667219f9509a89d0ad17913c8bfc96ff48adde463b4bd3a93d7850&=&format=webp&quality=lossless&width=1360&height=1206">
+<img align="left" width="100" src="https://media.discordapp.net/attachments/932999807004442658/1191734055566311465/a76Yblr9_700w_0.png?ex=65a683d4&is=65940ed4&hm=31b55e6cdf2fa135cb4ee7fb39a98ed41d3851d472d3bf903b4f63d2d4c08c2f&=&format=webp&quality=lossless&width=1360&height=1206">
 My hobbies are coding, playing games and watching anime. Interested in networking and selfhosting, I started my own homelab.
 
 <br clear="both"><br clear="both">
