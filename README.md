@@ -2,7 +2,7 @@
 
 # Hello!👋 I'm **`Arthur`** a web developer
 
-### **☕ About me**
+<br>
 <img align="left" width="100" src="https://media.discordapp.net/attachments/932999807004442658/1191537039468933140/a76Yblr9_700w_0.png?ex=65a5cc57&is=65935757&hm=45ed588185667219f9509a89d0ad17913c8bfc96ff48adde463b4bd3a93d7850&=&format=webp&quality=lossless&width=1360&height=1206">
 My hobbies are coding, playing games and watching anime. Interested in networking and selfhosting, I started my own homelab.
 
