@@ -67,11 +67,11 @@ My hobbies are coding, playing games and watching anime. Interested in networkin
 <!--START_SECTION:waka-->
 
 ```txt
-Go                14 hrs 1 min    ███████████████▒░░░░░░░░░   60.90 %
-Protocol Buffer   2 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
-TypeScript        2 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-YAML              1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-Other             1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Go                14 hrs 26 mins  █████████████░░░░░░░░░░░░   52.53 %
+TypeScript        5 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   19.56 %
+Protocol Buffer   3 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
+YAML              1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+Other             1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
 ```
 
 <!--END_SECTION:waka-->
