@@ -80,7 +80,7 @@ No activity tracked
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=x3ne&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color_cover=true">
   
-  <img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=x3ne">
+  <img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=x3ne&unique=true">
 </p>
 
 <br clear="both">
