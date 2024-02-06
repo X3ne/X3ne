@@ -67,11 +67,11 @@ My hobbies are coding, playing games and watching anime. Interested in networkin
 <!--START_SECTION:waka-->
 
 ```txt
-Go           5 hrs 12 mins   ██████████▒░░░░░░░░░░░░░░   41.09 %
-TypeScript   3 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.16 %
-Astro        1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-Bash         57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-Other        36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Go           5 hrs 12 mins   ████████████░░░░░░░░░░░░░   47.51 %
+TypeScript   3 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   31.37 %
+Bash         57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+Other        35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+C            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
