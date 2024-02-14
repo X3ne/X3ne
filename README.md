@@ -67,11 +67,11 @@ My hobbies are coding, playing games and watching anime. Interested in networkin
 <!--START_SECTION:waka-->
 
 ```txt
-Go                28 hrs 35 mins  █████████████████████▒░░░   85.28 %
-CSV               2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-Python            58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-TypeScript        28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Markdown          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Go                32 hrs 49 mins  █████████████████████▓░░░   86.89 %
+CSV               2 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Python            58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Markdown          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Git Config        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
