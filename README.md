@@ -29,18 +29,7 @@ My hobbies are coding, playing games and watching anime. Interested in networkin
   />
   <img src="https://media.discordapp.net/attachments/932999807004442658/1191539379995418655/express-original-wordmark.png?ex=65a5ce85&is=65935985&hm=1789c4ec6213d46eae0a3df72af5618f9fc2014f95cfadb7b80f8e8e4932b7cf&=&format=webp&quality=lossless&width=256&height=256" width="40" height="40" alt="express" />
 </picture></a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><picture>
-  <source
-    srcset="https://media.discordapp.net/attachments/932999807004442658/1191540338414866522/nextjs-2.png?ex=65a5cf6a&is=65935a6a&hm=be2b06c5dbc04e6c3177f9c8c053225226d77bfac7640f5055218acf7048dda6&=&format=webp&quality=lossless&width=2262&height=1366"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="70" height="40" alt="express" />
-</picture></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="nestjs" width="40" height="40" /></a>
   <a href="https://qwik.builder.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/Q/qwik-icon-logo-48EC4793C2-seeklogo.com.png" alt="qwik" width="40" height="40" /></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
   <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /></a>
