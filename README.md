@@ -3,7 +3,6 @@
 # Hello!👋 I'm **`Arthur`** a web developer
 
 <br>
-<img align="left" width="100" src="https://cdn.discordapp.com/attachments/932999807004442658/1196581727716524164/ki6p9F4.webp?ex=65b82693&is=65a5b193&hm=71cbf79adaf7960b33fea92090f02a6a69fe80b6aaf3e22dce2c4dfc8a7e1076&">
 My hobbies are coding, playing games and watching anime. Interested in networking and selfhosting, I started my own homelab.
 
 <br clear="both"><br clear="both">
@@ -20,7 +19,7 @@ My hobbies are coding, playing games and watching anime. Interested in networkin
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><picture>
   <source
-    srcset="https://media.discordapp.net/attachments/932999807004442658/1191539379995418655/express-original-wordmark.png?ex=65a5ce85&is=65935985&hm=1789c4ec6213d46eae0a3df72af5618f9fc2014f95cfadb7b80f8e8e4932b7cf&=&format=webp&quality=lossless&width=256&height=256"
+    srcset="https://keenethics.com/wp-content/uploads/2021/10/Express.js.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
