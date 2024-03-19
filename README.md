@@ -28,6 +28,8 @@ My hobbies are coding, playing games and watching anime. Interested in networkin
   />
   <img src="https://media.discordapp.net/attachments/932999807004442658/1191539379995418655/express-original-wordmark.png?ex=65a5ce85&is=65935985&hm=1789c4ec6213d46eae0a3df72af5618f9fc2014f95cfadb7b80f8e8e4932b7cf&=&format=webp&quality=lossless&width=256&height=256" width="40" height="40" alt="express" />
 </picture></a>
+  <a href="https://echo.labstack.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/2624634?v=4" alt="echo" width="40" height="40" /></a>
+  <a href="https://connectrpc.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/97258658?s=200&v=4" alt="connect" width="40" height="40" /></a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="nestjs" width="40" height="40" /></a>
   <a href="https://qwik.builder.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/Q/qwik-icon-logo-48EC4793C2-seeklogo.com.png" alt="qwik" width="40" height="40" /></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
