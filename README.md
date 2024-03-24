@@ -57,11 +57,11 @@ My hobbies are coding, playing games and watching anime. Interested in networkin
 <!--START_SECTION:waka-->
 
 ```txt
-Go                4 hrs 26 mins   ███████████████░░░░░░░░░░   60.53 %
-Protocol Buffer   1 hrs 34 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.42 %
-YAML              0 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
-Docker            0 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-unknown           0 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Go                4 hrs 22 mins   ███████████████░░░░░░░░░░   60.14 %
+Protocol Buffer   1 hrs 34 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.63 %
+YAML              0 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+Docker            0 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+unknown           0 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
