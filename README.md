@@ -1,5 +1,3 @@
-<img align="right" width="425" src="https://i.imgur.com/yiGKFAL.gif">
-
 # Hello!👋 I'm **`Arthur`** a web developer
 
 <br>
@@ -68,9 +66,7 @@ No activity tracked
 ## 🎶 Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=x3ne&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color_cover=true">
-  
-  <img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=x3ne&unique=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=x3ne&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color_cover=true">  
 </p>
 
 <br clear="both">
@@ -78,7 +74,5 @@ No activity tracked
 ## ✉️ Contact me
 
 <p align="left">
-  <a href="https://www.instagram.com/_arthu_ru" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <a href="https://discordapp.com/users/630131494064488461" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="https://t.me/NarcisseRael" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /></a>
 </p>
