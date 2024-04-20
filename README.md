@@ -55,10 +55,7 @@ My hobbies are coding, playing games and watching anime. Interested in networkin
 <!--START_SECTION:waka-->
 
 ```txt
-CSV/TSV          0 hrs 2 mins    █████████████████▒░░░░░░░   69.77 %
-GitIgnore file   0 hrs 1 mins    ███████░░░░░░░░░░░░░░░░░░   28.49 %
-Go               0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Groovy           0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
