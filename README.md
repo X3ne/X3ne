@@ -55,11 +55,11 @@ My hobbies are coding, playing games and watching anime. Interested in networkin
 <!--START_SECTION:waka-->
 
 ```txt
-Rust                   19 hrs 31 mins  █████████████████▒░░░░░░░   69.57 %
-YAML                   1 hrs 55 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-protobuf               1 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-TOML                   1 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Python                 0 hrs 47 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Rust                   22 hrs 25 mins  ████████████████▓░░░░░░░░   66.77 %
+Python                 2 hrs 19 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+YAML                   2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+protobuf               1 hrs 27 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+TOML                   1 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 ```
 
 <!--END_SECTION:waka-->
