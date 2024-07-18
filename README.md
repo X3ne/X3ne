@@ -21,6 +21,8 @@ My hobbies are coding, playing games and watching anime. Interested in networkin
   <a href="https://github.com/hyperium/tonic" target="_blank" rel="noreferrer"><img src="https://repository-images.githubusercontent.com/201517171/0152bf80-e52d-11e9-9f4b-e0bc855a8b64" alt="tonic" width="40" height="40" /></a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="nestjs" width="40" height="40" /></a>
   <a href="https://qwik.builder.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/Q/qwik-icon-logo-48EC4793C2-seeklogo.com.png" alt="qwik" width="40" height="40" /></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" alt="vue" width="40" height="40" /></a>
+  <a href="https://fr.react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="vue" width="40" height="40" /></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
   <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /></a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a>
