@@ -13,21 +13,12 @@ My hobbies are coding, playing games and watching anime. Interested in networkin
   <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" /></a>
+  <a href="https://www.rust-lang.org/fr" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/rust_lang_logo_icon_169776.png" alt="rust" width="40" height="40" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><picture>
-  <source
-    srcset="https://keenethics.com/wp-content/uploads/2021/10/Express.js.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://media.discordapp.net/attachments/932999807004442658/1191539379995418655/express-original-wordmark.png?ex=65a5ce85&is=65935985&hm=1789c4ec6213d46eae0a3df72af5618f9fc2014f95cfadb7b80f8e8e4932b7cf&=&format=webp&quality=lossless&width=256&height=256" width="40" height="40" alt="express" />
-</picture></a>
   <a href="https://echo.labstack.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/2624634?v=4" alt="echo" width="40" height="40" /></a>
   <a href="https://connectrpc.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/97258658?s=200&v=4" alt="connect" width="40" height="40" /></a>
+  <a href="https://actix.rs/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/32776943?s=200&v=4" alt="actix" width="40" height="40" /></a>
+  <a href="https://github.com/hyperium/tonic" target="_blank" rel="noreferrer"><img src="https://repository-images.githubusercontent.com/201517171/0152bf80-e52d-11e9-9f4b-e0bc855a8b64" alt="tonic" width="40" height="40" /></a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="nestjs" width="40" height="40" /></a>
   <a href="https://qwik.builder.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/Q/qwik-icon-logo-48EC4793C2-seeklogo.com.png" alt="qwik" width="40" height="40" /></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
@@ -42,12 +33,12 @@ My hobbies are coding, playing games and watching anime. Interested in networkin
 
 ## 📊 Stats
 
-<br clear="both">
+<!-- <br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=X3ne&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&bg_color=0d1117"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=X3ne&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&bg_color=0d1117" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 <br clear="both">
 
@@ -65,13 +56,13 @@ protobuf          0 hrs 33 mins   ▓░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </div>
 
-<br clear="both">
+<!-- <br clear="both">
 
 ## 🎶 Spotify
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=x3ne&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color_cover=true">  
-</p>
+</p> -->
 
 <br clear="both">
 
