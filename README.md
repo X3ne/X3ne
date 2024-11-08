@@ -48,11 +48,11 @@ My hobbies are coding, playing games and watching anime. Interested in networkin
 <!--START_SECTION:waka-->
 
 ```txt
-Rust             9 hrs 57 mins   █████████████████████░░░░   83.86 %
-Python           0 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Vue              0 hrs 20 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Bash             0 hrs 13 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Shell Script     0 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Rust             9 hrs 38 mins   ██████████████████████░░░   87.81 %
+Vue              0 hrs 20 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Bash             0 hrs 12 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Shell Script     0 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Dockerfile       0 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
