@@ -48,7 +48,8 @@ My hobbies are coding, playing games and watching anime. Interested in networkin
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+.env file   0 hrs 9 mins    ███████████████▒░░░░░░░░░   61.36 %
+Bash        0 hrs 5 mins    █████████▓░░░░░░░░░░░░░░░   38.64 %
 ```
 
 <!--END_SECTION:waka-->
