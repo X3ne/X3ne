@@ -48,11 +48,11 @@ My hobbies are coding, playing games and watching anime. Interested in networkin
 <!--START_SECTION:waka-->
 
 ```txt
-Rust             5 hrs 15 mins   ██████████████████████▒░░   89.14 %
-.env file        0 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-Bash             0 hrs 12 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-C#               0 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Makefile         0 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Rust             5 hrs 15 mins   ███████████████████████▒░   92.83 %
+.env file        0 hrs 8 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Bash             0 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+C#               0 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+GitIgnore file   0 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
