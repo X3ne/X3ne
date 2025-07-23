@@ -1,8 +1,5 @@
 # Hello!👋 I'm **`Arthur`** a web developer
 
-<br>
-My hobbies are coding, playing games and watching anime. Interested in networking and selfhosting, I started my own homelab.
-
 <br clear="both"><br clear="both">
 
 ## 💻 My stack
@@ -19,8 +16,7 @@ My hobbies are coding, playing games and watching anime. Interested in networkin
   <a href="https://connectrpc.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/97258658?s=200&v=4" alt="connect" width="40" height="40" /></a>
   <a href="https://actix.rs/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/32776943?s=200&v=4" alt="actix" width="40" height="40" /></a>
   <a href="https://github.com/hyperium/tonic" target="_blank" rel="noreferrer"><img src="https://repository-images.githubusercontent.com/201517171/0152bf80-e52d-11e9-9f4b-e0bc855a8b64" alt="tonic" width="40" height="40" /></a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="nestjs" width="40" height="40" /></a>
-  <a href="https://qwik.builder.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/Q/qwik-icon-logo-48EC4793C2-seeklogo.com.png" alt="qwik" width="40" height="40" /></a>
+  <a href="https://qwik.builder.io/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/qwik-1.svg" alt="qwik" width="40" height="40" /></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" alt="vue" width="40" height="40" /></a>
   <a href="https://fr.react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="vue" width="40" height="40" /></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
@@ -28,19 +24,18 @@ My hobbies are coding, playing games and watching anime. Interested in networkin
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a>
   <a href="https://www.scylladb.com/" target="_blank" rel="noreferrer"><img src="https://www.scylladb.com/wp-content/uploads/scylla-drivers.png" alt="scylla" width="40" height="40" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /></a>
 </p>
 
 <br clear="both">
 
 ## 📊 Stats
 
-<!-- <br clear="both">
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=X3ne&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&bg_color=0d1117"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=X3ne&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&bg_color=0d1117" height="150" alt="languages graph"  />
-</div> -->
+</div> 
 
 <br clear="both">
 
