@@ -43,11 +43,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue          3 hrs 8 mins    █████████████████▓░░░░░░░   70.41 %
-Go           1 hrs 2 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.13 %
-TypeScript   0 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-JSON         0 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Bash         0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
