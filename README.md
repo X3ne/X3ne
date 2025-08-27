@@ -43,7 +43,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go    0 hrs 4 mins    █████████████████████████   100.00 %
+CSV   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
