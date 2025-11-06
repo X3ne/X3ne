@@ -43,11 +43,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python            7 hrs 53 mins   ███████████░░░░░░░░░░░░░░   43.60 %
-Go                4 hrs 11 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
-Vue               2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
-TypeScript        1 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-Protocol Buffer   0 hrs 58 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Python            7 hrs 53 mins   ███████████░░░░░░░░░░░░░░   43.56 %
+Go                3 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   20.56 %
+Vue               2 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
+TypeScript        1 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Protocol Buffer   0 hrs 58 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
 ```
 
 <!--END_SECTION:waka-->
