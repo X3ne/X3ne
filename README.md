@@ -43,7 +43,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TSX          0 hrs 41 mins         ████████░░░░░░░░░░░░░░░░░   31.97 %
+Unknown      0 hrs 31 mins         ██████░░░░░░░░░░░░░░░░░░░   24.08 %
+Json         0 hrs 20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+YAML         0 hrs 9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Docker       0 hrs 7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
 ```
 
 <!--END_SECTION:waka-->
