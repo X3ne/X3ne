@@ -43,11 +43,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Typescript   6 hrs 44 mins         ████████▒░░░░░░░░░░░░░░░░   32.94 %
-TSX          2 hrs 45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
-Unknown      2 hrs 38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
-Markdown     2 hrs 1 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-YAML         1 hrs 53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+Typescript   6 hrs 40 mins         ████████▒░░░░░░░░░░░░░░░░   33.38 %
+Unknown      2 hrs 50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+TSX          2 hrs 43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+Markdown     2 hrs 1 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+YAML         1 hrs 45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
 ```
 
 <!--END_SECTION:waka-->
