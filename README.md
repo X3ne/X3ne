@@ -43,9 +43,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Unknown   0 hrs 10 mins         █████████████████░░░░░░░░   67.94 %
-Bash      0 hrs 4 mins          ███████▓░░░░░░░░░░░░░░░░░   31.23 %
-TSX       0 hrs 0 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Unknown   0 hrs 10 mins         █████████████████░░░░░░░░   68.51 %
+Bash      0 hrs 4 mins          ████████░░░░░░░░░░░░░░░░░   31.49 %
 ```
 
 <!--END_SECTION:waka-->
