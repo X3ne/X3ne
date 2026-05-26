@@ -43,8 +43,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Unknown   0 hrs 10 mins         █████████████████░░░░░░░░   68.51 %
-Bash      0 hrs 4 mins          ████████░░░░░░░░░░░░░░░░░   31.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
